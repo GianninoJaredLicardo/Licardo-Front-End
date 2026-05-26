@@ -1,4 +1,4 @@
 export const environment = {
     production: true,
-    apiUrl: 'https://sermonia-backend.onrender.com'
+    apiUrl: 'https://licardo-lab-7.onrender.com'
 };
