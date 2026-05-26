@@ -1,4 +1,4 @@
-# Sermonia Lab7 Activity - Angular Frontend
+# Licardo Lab7 Activity - Angular Frontend
 
 Angular 15 Auth Boilerplate with Email Sign Up, Verification, Login and Forgot Password.
 
